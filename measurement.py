@@ -46,4 +46,4 @@ while True:
 	distance = (TimeElapsed * 34300) / 2
 
 	print ("Distance: %.1f cm" % distance)
-	time.sleep(10)
+	time.sleep(600)
